@@ -60,7 +60,7 @@ print("I now have $\(myBalance).")
 */
 // tried entering the following code:
 //myPuppy = "Chewy"
-//Got error messages
+//Got error messages.
 
 //You cannot do this because the puppy's name, myPuppy, is a constant, so it is immutable.
 
